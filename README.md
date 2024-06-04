@@ -1,6 +1,6 @@
 # 2024_Deep_Learning
 
-DeepLearning Study
+### DeepLearning Study
 
 ---------------
 
@@ -8,9 +8,11 @@ DeepLearning Study
 <br>
 https://www.notion.so/VISION-CREW-6f436372e71d43b5a0acee3ebe7435f3
 
+
 <논문 리뷰>
 <br>
 Redmon_You_Only_Look_CVPR_2016_paper
+
 
 <코드 분석>
 <br>
