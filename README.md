@@ -1,4 +1,4 @@
-# 2024_DeepLearning
+# 2024_Deep_Learning
 
 DeepLearning Study
 
